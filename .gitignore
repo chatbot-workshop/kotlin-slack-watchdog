@@ -1,0 +1,7 @@
+/.gradle
+/.idea
+/build
+/out
+
+kotlin-slack-watchdog.iml
+
